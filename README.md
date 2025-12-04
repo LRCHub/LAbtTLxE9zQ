@@ -1,0 +1,69 @@
+# ナノ – KEMURIKUSA
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:00.90] Inside the dark my heartbeat echoes
+[00:08.08] Long night 夜は続くんだ
+[00:14.84] Time to face the hell that surrounds you
+[00:16.70] Before you crash and burn
+[00:18.33] From under the fine
+[00:19.19] Your soul will rise now
+[00:30.69] 
+[00:34.51] 吸い込んで 吐き出して
+[00:36.86] 生死の狭間で 虚ろな瞳で見つめて
+[00:41.35] 今アクセル 踏み込んで
+[00:43.67] トンネルを抜け出して
+[00:45.12] 痛みを追い越していく
+[00:50.12] 
+[00:47.95] 煙に消える影
+[00:54.94] Lost light 明日へ続くんだ
+[01:03.94] 
+[01:02.73] いつか僕らの世界 変わり果てて
+[01:06.94] 幻想の中 Remember, remember
+[01:09.91] この手で君のミライを無情に壊して、奪い去っていくんだ
+[01:16.90] 僕の身体 朽ち果てるまで
+[01:20.41] 限界の先 We'll never surrender
+[01:23.32] 終わらないアゴニー
+[01:26.93] Finding my life in the KEMURIKUSA
+[01:43.43] 
+[01:43.39] ディストラクション 繰り返して
+[01:45.49] 命消えて 容赦無く涙溢れる
+[01:50.18] ディストーション 撃ち抜いて
+[01:51.96] わずかな温もり
+[01:53.80] 求めて彷徨っていく
+[01:58.30] 
+[01:56.94] 煙に染まる記憶
+[02:03.55] Last fight 戦っていくんだ
+[02:12.55] 
+[02:11.77] いつか僕らの運命に 疲れ果てて
+[02:15.89] 迷いの中 Remember, remember
+[02:18.89] この手で君のココロ探し求め、奪い返していくんだ
+[02:25.80] 僕の光 蘇るまで
+[02:29.40] 闇の先 A distant desire
+[02:32.47] 終わらないアゴニー
+[02:35.94] Not even this darkness can limit us
+[02:53.44] 
+[02:39.79] Memories of the days when we believed light was forever
+[02:42.59] Are now just the shadows that we will always remember
+[02:46.34] If ever you're losing every strength to keep fighting on
+[02:49.30] As long as the fire burns in your heart you can go beyond
+[03:17.80] 
+[02:52.57] Inside of the smoke we're drowning in, suffocating sanity
+[02:55.10] With every breath we're taking in, running from reality
+[02:59.37] The trauma echoing within is blinding us, we cannot see
+[03:02.90] Will your life persevere or surrender to this agony?
+[03:28.90] 
+[03:06.04] Inside of the smoke we're drowning in, suffocating sanity
+[03:09.41] With every breath we're taking in, running from reality
+[03:12.52] The trauma echoing within is blinding us, we cannot see
+[03:16.19] Will your life persevere or surrender to this agony?
+[03:42.19] 
+[03:20.22] いつか僕らの真実に たどり着いて
+[03:24.32] 時を超え Remember, remember
+[03:27.60] この手で君のユメを永遠に繋いで、守っていくんだ
+[03:34.84] 僕の声が 枯れ果てるまで
+[03:38.16] 今、叫んで Our future, forever
+[03:41.10] 終わらないアゴニー
+[03:44.83] Finding my life in the KEMURIKUSA
+```
