@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "KEMURIKUSA",
+  "base_artist": "ナノ",
+  "createdAt": "2025-12-04T15:04:58.789479Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Kemurikusa",
+      "artist": "NANO",
+      "has_synced": true,
+      "path": "select/01_Kemurikusa_NANO.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "KEMURIKUSA",
+      "artist": "ナノ",
+      "has_synced": true,
+      "path": "select/02_KEMURIKUSA_ナノ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "KEMURIKUSA(Instrumental ver.)",
+      "artist": "ナノ",
+      "has_synced": true,
+      "path": "select/03_KEMURIKUSA(Instrumental_ver.)_ナノ.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "KEMURIKUSA",
+      "artist": "ナノ",
+      "has_synced": true,
+      "path": "select/04_KEMURIKUSA_ナノ.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "KEMURIKUSA (Instrumental ver.)",
+      "artist": "nano",
+      "has_synced": true,
+      "path": "select/05_KEMURIKUSA_(Instrumental_ver.)_nano.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "KEMURIKUSA",
+      "artist": "nano",
+      "has_synced": true,
+      "path": "select/06_KEMURIKUSA_nano.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "KEMURIKUSA",
+      "artist": "ナノ",
+      "has_synced": false,
+      "path": "select/pl_01_KEMURIKUSA_ナノ.txt"
+    }
+  ]
+}
